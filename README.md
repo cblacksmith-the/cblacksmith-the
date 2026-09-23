@@ -16,7 +16,7 @@ This dataset contains comprehensive stats, physical characteristics, and lore at
 
 ### Connect with me
 #### [LinkedIn](www.linkedin.com/in/cole-blacksmith-1292a1233)
-#### [Kaggle]([url](https://www.kaggle.com/coleblacksmith)
+#### [Kaggle](https://www.kaggle.com/coleblacksmith)
 
 
 <!--
