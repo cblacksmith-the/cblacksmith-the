@@ -15,8 +15,8 @@ I'm using a public Kaggle dataset that covers a wide variety of Pokémon stats.
 This dataset contains comprehensive stats, physical characteristics, and lore attributes for over 1300+ Pokemon (including various forms). It's an excellent playground for Data Analysis (EDA), Data Visualization, and Machine Learning tasks.
 
 ### Connect with me
-[#### LinkedIn](www.linkedin.com/in/cole-blacksmith-1292a1233)
-[#### Kaggle]([url](https://www.kaggle.com/coleblacksmith))
+#### [LinkedIn](www.linkedin.com/in/cole-blacksmith-1292a1233)
+#### [Kaggle]([url](https://www.kaggle.com/coleblacksmith))
 
 
 <!--
