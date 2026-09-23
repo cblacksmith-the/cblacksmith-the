@@ -1,4 +1,4 @@
-## Thanks for checking out my Repo!
+## Thanks for checking out my page!
 
 ### About Me...
 I'm a Data Analyst who's looking to hone my craft through some self-guided projects! 
