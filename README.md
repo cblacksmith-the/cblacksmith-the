@@ -4,7 +4,7 @@
 I'm a Data Analyst who's looking to hone my craft through some self-guided projects! 
 
 ### Current Study...
-I'm working through the 30 Days of Python public repository, [found here!]((https://github.com/Asabeneh/30-Days-Of-Python/tree/master))
+I'm working through the 30 Days of Python public repository, [found here!](https://github.com/Asabeneh/30-Days-Of-Python/tree/master)
 This is a highly rated Python instruction guide that I'm extremely excited about. I'll be posting my scripts on here, cataloging my work as I go!
 
 ### Recent Projects...
